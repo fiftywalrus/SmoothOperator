@@ -1,5 +1,5 @@
 {
-    "parent": "block/glowstone/glowstone00",
+    "parent": "block/glowstone",
     "display": {
         "thirdperson": {
             "rotation": [ 10, -45, 170 ],
