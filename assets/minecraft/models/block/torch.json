@@ -1,0 +1,35 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "torch": "blocks/torch_on",
+        "particle": "#torch"
+    },
+    "elements": [ 
+        {
+            "from": [ 6.75, 7, 6.75 ],
+            "to": [ 9.25, 10, 9.25 ],
+            "shade": false,
+            "faces": {
+                "down":  { "uv": [ 13.75, 9.5, 16, 11.75 ], "texture": "#torch" },
+                "up":    { "uv": [ 11.5, 0, 16, 4.5 ], "texture": "#torch" },
+                "north": { "uv": [ 11.5, 4.5, 16, 9.5 ], "texture": "#torch" },
+                "south": { "uv": [ 11.5, 4.5, 16, 9.5 ], "texture": "#torch" },
+                "west":  { "uv": [ 11.5, 4.5, 16, 9.5 ], "texture": "#torch" },
+                "east":  { "uv": [ 11.5, 4.5, 16, 9.5 ], "texture": "#torch" }
+            }
+        },
+        {
+            "from": [ 7, 0, 7 ],
+            "to": [ 9, 7, 9 ],
+            "shade": false,
+            "faces": {
+                "down":  { "uv": [ 8, 12, 12, 16 ], "texture": "#torch" },
+                "north": { "uv": [ 0, 0, 4, 16 ], "texture": "#torch" },
+                "south": { "uv": [ 4, 0, 8, 16 ], "texture": "#torch" },
+                "west":  { "uv": [ 4, 0, 8, 16 ], "texture": "#torch" },
+                "east":  { "uv": [ 0, 0, 4, 16 ], "texture": "#torch" }
+            }
+        }
+    ]
+}
+
