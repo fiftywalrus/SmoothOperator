@@ -1,0 +1,30 @@
+{
+    "parent": "block/flower_pot",
+    "display": {
+        "thirdperson": {
+            "rotation": [ -90, 0, 0 ],
+            "translation": [ 0, 0.5, -4 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -135, 25 ],
+            "translation": [ 2, 4, 0 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        },
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 4, 0 ],
+            "scale": [ 2, 2, 2 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 4, 0 ],
+            "scale": [ 3, 3, 3 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 2, 2, 2 ]
+        }
+    }
+}
