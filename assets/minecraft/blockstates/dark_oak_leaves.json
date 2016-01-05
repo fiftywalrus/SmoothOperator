@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "dark_oak_leaves_00" },
+          { "model": "dark_oak_leaves_01" },
+          { "model": "dark_oak_leaves_02" },
+          { "model": "dark_oak_leaves_03" }
+        ]
+    }
+}
