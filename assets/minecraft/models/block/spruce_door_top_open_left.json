@@ -20,7 +20,7 @@
 },
 {
     "from": [ 2, 0, 1 ],
-    "to": [ 14, 14, 2 ],
+    "to": [ 14, 14, 3 ],
     "faces": {
         "north": { "uv": [ 9, 1, 15, 8 ], "texture": "#back" },
         "south": { "uv": [ 1, 1, 7, 8 ], "texture": "#front" }
