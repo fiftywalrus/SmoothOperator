@@ -1,8 +1,7 @@
 {
     "variants": {
         "normal": [
-          { "model": "acacia_leaves_00" },
-          { "model": "acacia_leaves_01" }
+          { "model": "acacia_leaves" }
         ]
     }
 }
