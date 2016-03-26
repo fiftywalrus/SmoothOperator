@@ -1,6 +1,4 @@
 {
-"__comment": "Designed by Fiftywalrus with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
-"ambientocclusion": false,
 "textures": {
     "particle": "blocks/reeds",
     "texture": "blocks/reeds"
