@@ -230,3 +230,5 @@ assets/minecraft/textures/blocks/glowstone/glowstone00_amin/glowstone00_anim04.p
 assets/minecraft/textures/blocks/Lava_Flow_Seq/lava15.png
 assets/minecraft/textures/blocks/Lava_Flow_Seq/lava14.png
 assets/minecraft/textures/blocks/soul_sand/soul_sand_side/soul_sand_side00.png
+*.bdc3D
+*.zip
