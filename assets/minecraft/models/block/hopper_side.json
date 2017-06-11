@@ -5,7 +5,7 @@
 		"particle": "blocks/hopper_outside",
 		"top": "blocks/hopper_top",
 		"side": "blocks/hopper_outside",
-		"inside": "blocks/hopper_inside"
+		"inside": "blocks/hopper_inside_side"
 	},
 	"elements": [
 		{
