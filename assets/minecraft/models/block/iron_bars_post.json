@@ -1,0 +1,24 @@
+{
+	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "blocks/iron_bars",
+		"bars": "blocks/iron_bars",
+		"edge": "blocks/iron_bars_end"
+	},
+	"elements": [
+		{
+			"from": [ 8, 0, 7 ],
+			"to": [ 9.5, 16, 8.5 ],
+			"rotation": { "origin": [ 8, 0, 7 ], "axis": "y", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#edge" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#edge" },
+				"north": { "uv": [ 8.5, 0, 7, 16 ], "texture": "#bars" },
+				"south": { "uv": [ 8.5, 0, 10, 16 ], "texture": "#bars" },
+				"west": { "uv": [ 7, 0, 8.5, 16 ], "texture": "#bars" },
+				"east": { "uv": [ 10, 0, 8.5, 16 ], "texture": "#bars" }
+			}
+		}
+	]
+}
