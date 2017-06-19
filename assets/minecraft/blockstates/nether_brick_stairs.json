@@ -24,7 +24,8 @@
           { "model": "nether_brick/nether_brick_stairs02", "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_stairs03", "y": 270, "uvlock": true }
         ],
-        "facing=east,half=bottom,shape=outer_right": [
+        
+	"facing=east,half=bottom,shape=outer_right": [
           { "model": "nether_brick/nether_brick_outer_stairs00" },
           { "model": "nether_brick/nether_brick_outer_stairs01" },
           { "model": "nether_brick/nether_brick_outer_stairs02" },
@@ -48,7 +49,8 @@
           { "model": "nether_brick/nether_brick_outer_stairs02", "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs03", "y": 270, "uvlock": true }
         ],
-        "facing=east,half=bottom,shape=outer_left":  [
+        
+	"facing=east,half=bottom,shape=outer_left":  [
           { "model": "nether_brick/nether_brick_outer_stairs00", "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs01", "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs02", "y": 270, "uvlock": true },
@@ -72,7 +74,8 @@
           { "model": "nether_brick/nether_brick_outer_stairs02", "y": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs03", "y": 180, "uvlock": true }
         ],
-        "facing=east,half=bottom,shape=inner_right":  [
+        
+	"facing=east,half=bottom,shape=inner_right":  [
           { "model": "nether_brick/nether_brick_inner_stairs00" },
           { "model": "nether_brick/nether_brick_inner_stairs01" },
           { "model": "nether_brick/nether_brick_inner_stairs02" },
@@ -96,7 +99,8 @@
           { "model": "nether_brick/nether_brick_inner_stairs02", "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs03", "y": 270, "uvlock": true }
         ],
-        "facing=east,half=bottom,shape=inner_left":  [
+        
+	"facing=east,half=bottom,shape=inner_left":  [
           { "model": "nether_brick/nether_brick_inner_stairs00", "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs01", "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs02", "y": 270, "uvlock": true },
@@ -120,7 +124,8 @@
           { "model": "nether_brick/nether_brick_inner_stairs02", "y": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs03", "y": 180, "uvlock": true }
         ],
-        "facing=east,half=top,shape=straight":  [
+        
+	"facing=east,half=top,shape=straight":  [
           { "model": "nether_brick/nether_brick_stairs00", "x": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_stairs01", "x": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_stairs02", "x": 180, "uvlock": true },
@@ -144,101 +149,105 @@
           { "model": "nether_brick/nether_brick_stairs02", "x": 180, "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_stairs03", "x": 180, "y": 270, "uvlock": true }
         ],
-        "facing=east,half=top,shape=outer_right":  [
-          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "uvlock": true }
+        
+	"facing=east,half=top,shape=outer_right":  [
+          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 90, "uvlock": true }
         ],
         "facing=west,half=top,shape=outer_right":  [
-          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 180, "uvlock": true }
+          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 270, "uvlock": true }
         ],
         "facing=south,half=top,shape=outer_right": [
-          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 90, "uvlock": true }
-        ],
-        "facing=north,half=top,shape=outer_right": [
-          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 270, "uvlock": true }
-        ],
-        "facing=east,half=top,shape=outer_left":  [
-          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 90, "uvlock": true }
-        ],
-        "facing=west,half=top,shape=outer_left":  [
-          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 270, "uvlock": true }
-        ],
-        "facing=south,half=top,shape=outer_left": [
           { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 180, "uvlock": true }
         ],
-        "facing=north,half=top,shape=outer_left": [
+        "facing=north,half=top,shape=outer_right": [
           { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "uvlock": true }
         ],
-        "facing=east,half=top,shape=inner_right":  [
-          { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "uvlock": true }
+        
+        "facing=east,half=top,shape=outer_left": [
+          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "uvlock": true }
         ],
-        "facing=west,half=top,shape=inner_right":  [
-          { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 180, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 180, "uvlock": true }
+	"facing=west,half=top,shape=outer_left": [
+          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 180, "uvlock": true }
         ],
-        "facing=south,half=top,shape=inner_right": [
+        "facing=south,half=top,shape=outer_left":  [
+          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 90, "uvlock": true }
+        ],
+        "facing=north,half=top,shape=outer_left":  [
+          { "model": "nether_brick/nether_brick_outer_stairs00", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs01", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs02", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_outer_stairs03", "x": 180, "y": 270, "uvlock": true }
+        ],
+        
+	"facing=east,half=top,shape=inner_right": [
           { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 90, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 90, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 90, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 90, "uvlock": true }
         ],
-        "facing=north,half=top,shape=inner_right": [
+        "facing=west,half=top,shape=inner_right": [
           { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 270, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 270, "uvlock": true }
         ],
-        "facing=east,half=top,shape=inner_left":  [
-          { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 90, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 90, "uvlock": true }
-        ],
-        "facing=west,half=top,shape=inner_left":  [
-          { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 270, "uvlock": true },
-          { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 270, "uvlock": true }
-        ],
-        "facing=south,half=top,shape=inner_left": [
+         "facing=south,half=top,shape=inner_right":  [
           { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 180, "uvlock": true }
         ],
-        "facing=north,half=top,shape=inner_left": [
+        "facing=north,half=top,shape=inner_right":  [
           { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "uvlock": true },
           { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "uvlock": true }
+        ],
+        
+	"facing=east,half=top,shape=inner_left": [
+          { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "uvlock": true }
+        ],
+        "facing=west,half=top,shape=inner_left": [
+          { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 180, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 180, "uvlock": true }
+        ],
+        "facing=south,half=top,shape=inner_left":  [
+          { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 90, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 90, "uvlock": true }
+        ],
+        "facing=north,half=top,shape=inner_left":  [
+          { "model": "nether_brick/nether_brick_inner_stairs00", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs01", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs02", "x": 180, "y": 270, "uvlock": true },
+          { "model": "nether_brick/nether_brick_inner_stairs03", "x": 180, "y": 270, "uvlock": true }
         ]
     }
 }
