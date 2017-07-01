@@ -1,0 +1,10 @@
+{
+  
+	"pack": {
+    
+		"pack_format": 3,
+    
+		"description": "Add on top of Smooth Operator to downscale blocks to 16px"
+ 	}
+
+}
