@@ -1,0 +1,37 @@
+{
+	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#stem",
+		"stem": "blocks/e_texture",
+		"upperstem": "blocks/e_texture"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 8 ],
+			"to": [ 16, 16, 8.001 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#stem", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#stem", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 8, 0, 0 ],
+			"to": [ 8.001, 16, 16 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#stem", "tintindex": 0 },
+				"east": { "uv": [ 16, 0, 0, 16 ], "texture": "#stem", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ -9, 0, 8 ],
+			"to": [ 9, 21, 8.001 ],
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#upperstem", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#upperstem", "tintindex": 0 }
+			}
+		}
+	]
+}
