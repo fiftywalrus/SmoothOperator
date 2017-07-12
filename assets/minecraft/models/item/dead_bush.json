@@ -1,0 +1,7 @@
+{
+    "parent": "item/sapling",
+    "textures": {
+        "particle": "blocks/deadbush",
+        "cross": "blocks/deadbush"
+    }
+}
