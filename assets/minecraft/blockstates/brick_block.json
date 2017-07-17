@@ -1,7 +1,7 @@
 {
     "variants": {
         "normal": [
-          { "model": "brick_00" },
+          { "model": "brick" },
           { "model": "brick_01" },
           { "model": "brick_02" },
           { "model": "brick_03" }

@@ -1,10 +1,10 @@
 {
     "variants": {
       "normal":[
-        { "model": "quartz_ore/quartz_ore00" },
-        { "model": "quartz_ore/quartz_ore01" },
-        { "model": "quartz_ore/quartz_ore02" },
-        { "model": "quartz_ore/quartz_ore03" }
+        { "model": "quartz_ore" },
+        { "model": "quartz_ore01" },
+        { "model": "quartz_ore02" },
+        { "model": "quartz_ore03" }
       ]
     }
 }

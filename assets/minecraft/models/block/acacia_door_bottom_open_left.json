@@ -1,9 +1,9 @@
 {
 "textures": {
-    "particle": "blocks/door/door_acacia_front",
-    "edge": "blocks/door/door_acacia_edge",
-    "back": "blocks/door/door_acacia_back",
-    "front": "blocks/door/door_acacia_front"
+    "particle": "blocks/door_acacia_front",
+    "edge": "blocks/door_acacia_edge",
+    "back": "blocks/door_acacia_back",
+    "front": "blocks/door_acacia_front"
 },
 "elements": [ 
 {

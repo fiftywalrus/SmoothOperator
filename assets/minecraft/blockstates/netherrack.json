@@ -1,8 +1,8 @@
 {
     "variants": {
         "normal": [
-            { "model": "netherrack/netherrack00" },
-            { "model": "netherrack/netherrack01" }
+            { "model": "netherrack" },
+            { "model": "netherrack01" }
         ]
     }
 }
