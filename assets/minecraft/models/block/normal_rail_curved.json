@@ -1,9 +1,0 @@
-{
-    "parent": "block/rail_curved",
-    "textures": {
-	"rail_metal_top": "blocks/rail_curved_metal_top",
-	"rail_metal_bottom": "blocks/rail_curved_metal_bottom",
-	"rail_wood_top": "blocks/rail_curved_wood_top",
-	"rail_wood_bottom": "blocks/rail_curved_wood_bottom"
-    }
-}

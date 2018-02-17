@@ -1,9 +1,0 @@
-{
-    "parent": "block/rail_flat",
-    "textures": {
-	"rail_metal_top": "blocks/rail_normal_metal_top",
-	"rail_metal_bottom": "blocks/rail_normal_metal_bottom",
-        "rail_wood_top": "blocks/rail_activator_powered",
-	"rail_wood_bottom": "blocks/rail_normal_wood_bottom"
-    }
-}

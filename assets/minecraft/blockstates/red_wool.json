@@ -1,7 +1,7 @@
 {
     "variants": {
         "normal": [
-          { "model": "red_wool_00" },
+          { "model": "red_wool" },
           { "model": "red_wool_01" },
           { "model": "red_wool_02" },
           { "model": "red_wool_03" }
