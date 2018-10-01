@@ -1,9 +1,9 @@
 {
 "textures": {
-    "particle": "blocks/comparator_on",
-    "slab": "blocks/stone_slab_top",
-    "top": "blocks/comparator_on",
-    "lit": "blocks/redstone_torch"
+    "particle": "block/comparator_on",
+    "slab": "block/stone_slab_top",
+    "top": "block/comparator_on",
+    "lit": "block/redstone_torch"
 },
 "elements": [ 
 {

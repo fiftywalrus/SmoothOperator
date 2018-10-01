@@ -2,10 +2,10 @@
 	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "blocks/iron_bars",
-		"bars": "blocks/iron_bars",
-		"edge": "blocks/iron_bars_end",
-		"texture": "blocks/e_texture"
+		"particle": "block/iron_bars",
+		"bars": "block/iron_bars",
+		"edge": "block/iron_bars_end",
+		"texture": "block/e_texture"
 	},
 	"elements": [
 		{

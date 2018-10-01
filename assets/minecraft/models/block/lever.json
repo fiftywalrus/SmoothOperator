@@ -2,9 +2,9 @@
 	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "blocks/lever",
-		"base": "blocks/lever",
-		"lever": "blocks/lever"
+		"particle": "block/lever",
+		"base": "block/lever",
+		"lever": "block/lever"
 	},
 	"elements": [
 		{

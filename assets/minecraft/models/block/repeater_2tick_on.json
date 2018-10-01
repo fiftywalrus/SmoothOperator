@@ -1,9 +1,9 @@
 {
 "textures": {
-    "particle": "blocks/repeater",
-    "slab": "blocks/stone_slab_top",
-    "top": "blocks/repeater_on",
-    "lit": "blocks/redstone_torch"
+    "particle": "block/repeater",
+    "slab": "block/stone_slab_top",
+    "top": "block/repeater_on",
+    "lit": "block/redstone_torch"
 },
 "elements": [ 
 {

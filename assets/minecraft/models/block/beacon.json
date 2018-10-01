@@ -1,11 +1,11 @@
 {   "parent": "block/block",
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/beacon_glass",
-        "glass": "blocks/beacon_glass",
-        "obsidian": "blocks/beacon_base",
-        "beacon": "blocks/beacon",
-        "beacon_side": "blocks/beacon_side"
+        "particle": "block/beacon_glass",
+        "glass": "block/beacon_glass",
+        "obsidian": "block/beacon_base",
+        "beacon": "block/beacon",
+        "beacon_side": "block/beacon_side"
     },
     "elements": [
         {   "__comment": "Glass shell",

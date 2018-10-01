@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "#stem",
-		"stem": "blocks/e_texture",
-		"upperstem": "blocks/e_texture"
+		"stem": "block/e_texture",
+		"upperstem": "block/e_texture"
 	},
 	"elements": [ 	 
 		{

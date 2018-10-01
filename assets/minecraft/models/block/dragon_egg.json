@@ -3,9 +3,9 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "blocks/dragon_egg",
-		"Top": "blocks/dragon_egg_top",
-		"Side": "blocks/dragon_egg"
+		"particle": "block/dragon_egg",
+		"Top": "block/dragon_egg_top",
+		"Side": "block/dragon_egg"
 	},
 	"elements": [ 	 
 		{

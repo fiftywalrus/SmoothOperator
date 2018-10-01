@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "items/glowstone_dust_anim"
+        "layer0": "item/glowstone_dust_anim"
     },
     "display": {
         "thirdperson_righthand": {

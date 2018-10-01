@@ -1,7 +1,7 @@
 {
 "textures": {
-    "particle": "blocks/ladder",
-    "texture": "blocks/ladder_unwrap"
+    "particle": "block/ladder",
+    "texture": "block/ladder_unwrap"
 },
 "elements": [ 
 {

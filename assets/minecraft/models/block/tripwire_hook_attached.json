@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/planks_oak",
-		"hook": "blocks/trip_wire_source",
-		"wood": "blocks/trip_wire_source",
-		"tripwire": "blocks/trip_wire"
+		"particle": "block/planks_oak",
+		"hook": "block/trip_wire_source",
+		"wood": "block/trip_wire_source",
+		"tripwire": "block/trip_wire"
 	},
 	"elements": [
 		{

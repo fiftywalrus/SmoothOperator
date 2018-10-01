@@ -1,7 +1,7 @@
 {
 "textures": {
-    "particle": "blocks/sugar_cane",
-    "texture": "blocks/sugar_cane"
+    "particle": "block/sugar_cane",
+    "texture": "block/sugar_cane"
 },
 "elements": [ 
 {

@@ -1,10 +1,10 @@
 {
 "ambientocclusion": false,
 "textures": {
-    "particle": "blocks/door_iron_front",
-    "edge": "blocks/door_iron_edge",
-    "front": "blocks/door_iron_front",
-    "back": "blocks/door_iron_front"
+    "particle": "block/door_iron_front",
+    "edge": "block/door_iron_edge",
+    "front": "block/door_iron_front",
+    "back": "block/door_iron_front"
 },
 "elements": [ 
 {

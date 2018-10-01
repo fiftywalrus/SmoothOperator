@@ -1,10 +1,10 @@
 {
 "textures": {
-    "particle": "blocks/repeater",
-    "top": "blocks/repeater",
-    "slab": "blocks/stone_slab_top",
-    "lock": "blocks/bedrock",
-    "unlit": "blocks/redstone_torch_off"
+    "particle": "block/repeater",
+    "top": "block/repeater",
+    "slab": "block/stone_slab_top",
+    "lock": "block/bedrock",
+    "unlit": "block/redstone_torch_off"
 },
 "elements": [ 
 {

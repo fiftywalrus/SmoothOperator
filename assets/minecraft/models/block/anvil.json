@@ -1,9 +1,9 @@
 {
 	"parent": "block/block",
 	"textures": {
-	"particle": "blocks/anvil",
-	"body": "blocks/anvil",
-	"top": "blocks/anvil_top"
+	"particle": "block/anvil",
+	"body": "block/anvil",
+	"top": "block/anvil_top"
 	},
 	"display": {
 	"fixed": {

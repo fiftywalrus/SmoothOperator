@@ -1,9 +1,9 @@
 {
     "parent": "block/rail_raised_sw",
     "textures": {
-	"rail_metal_top": "blocks/rail_metal_top",
-	"rail_metal_bottom": "blocks/rail_metal_bottom",
-        "rail_wood_top": "blocks/activator_rail_on",
-	"rail_wood_bottom": "blocks/rail_wood_bottom"
+	"rail_metal_top": "block/rail_metal_top",
+	"rail_metal_bottom": "block/rail_metal_bottom",
+        "rail_wood_top": "block/activator_rail_on",
+	"rail_wood_bottom": "block/rail_wood_bottom"
     }
 }

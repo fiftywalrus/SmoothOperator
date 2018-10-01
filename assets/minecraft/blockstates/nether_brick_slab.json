@@ -1,22 +1,22 @@
 {
     "variants": {
         "type=bottom": [
-	  { "model": "nether_brick_slab" },
-	  { "model": "nether_brick_slab_01" },
-	  { "model": "nether_brick_slab_02" },
-	  { "model": "nether_brick_slab_03" }
+	  { "model": "block/nether_brick_slab" },
+	  { "model": "block/nether_brick_slab_01" },
+	  { "model": "block/nether_brick_slab_02" },
+	  { "model": "block/nether_brick_slab_03" }
 	],
         "type=top": [
-	  { "model": "nether_brick_slab_top" },
-	  { "model": "nether_brick_slab_top_01" },
-	  { "model": "nether_brick_slab_top_02" },
-	  { "model": "nether_brick_slab_top_03" }
+	  { "model": "block/nether_brick_slab_top" },
+	  { "model": "block/nether_brick_slab_top_01" },
+	  { "model": "block/nether_brick_slab_top_02" },
+	  { "model": "block/nether_brick_slab_top_03" }
 	],
         "type=double": [
-	  { "model": "nether_bricks" },
-	  { "model": "nether_bricks_01" },
-	  { "model": "nether_bricks_02" },
-	  { "model": "nether_bricks_03" }
+	  { "model": "block/nether_bricks" },
+	  { "model": "block/nether_bricks_01" },
+	  { "model": "block/nether_bricks_02" },
+	  { "model": "block/nether_bricks_03" }
 	]
     }
 }

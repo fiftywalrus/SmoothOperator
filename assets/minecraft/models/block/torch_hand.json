@@ -1,6 +1,6 @@
 {
     "textures": {
-        "torch": "blocks/torch_off",
+        "torch": "block/torch_off",
         "particle": "#torch"
     },
     "elements": [ 

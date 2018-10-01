@@ -2,7 +2,7 @@
 
     "parent": "block/fence_side",
     "textures": {
-        "texture": "blocks/nether_brick_fence"
+        "texture": "block/nether_brick_fence"
     }
 
 }

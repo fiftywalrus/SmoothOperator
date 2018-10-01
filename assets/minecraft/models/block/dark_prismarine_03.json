@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "blocks/dark_prismarine_03"
+        "all": "block/dark_prismarine_03"
     }
 }

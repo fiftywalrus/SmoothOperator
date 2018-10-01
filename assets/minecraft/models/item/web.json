@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "blocks/web"
+        "layer0": "block/web"
     },
     "display": {
         "ground": {

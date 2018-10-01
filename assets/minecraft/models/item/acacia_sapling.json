@@ -1,7 +1,7 @@
 {
     "parent": "item/sapling",
     "textures": {
-        "particle": "blocks/acacia_sapling",
-        "cross": "blocks/acacia_sapling"
+        "particle": "block/acacia_sapling",
+        "cross": "block/acacia_sapling"
     }
 }
