@@ -1,17 +1,17 @@
 {
     "multipart": [
-        {   "apply": { "model": "iron_bars_post" } },
+        {   "apply": { "model": "block/iron_bars_post" } },
         {   "when": { "north": true },
-            "apply": { "model": "iron_bars_side_n" }
+            "apply": { "model": "block/iron_bars_side_n" }
         },
         {   "when": { "east": true },
-            "apply": { "model": "iron_bars_side_e" }
+            "apply": { "model": "block/iron_bars_side_e" }
         },
         {   "when": { "south": true },
-            "apply": { "model": "iron_bars_side_s" }
+            "apply": { "model": "block/iron_bars_side_s" }
         },
         {   "when": { "west": true },
-            "apply": { "model": "iron_bars_side_w" }
+            "apply": { "model": "block/iron_bars_side_w" }
         }
     ]
 }
