@@ -2,9 +2,9 @@
 	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
 	"parent": "block/block",
 	"textures": {
-		"out": "block/mob_spawner",
-		"in": "block/mob_spawner_inside",
-		"particle": "block/mob_spawner"
+		"out": "block/spawner",
+		"in": "block/spawner_inside",
+		"particle": "block/spawner"
 	},
 	"elements": [ 	 
 		{
