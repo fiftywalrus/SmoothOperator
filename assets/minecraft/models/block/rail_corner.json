@@ -1,10 +1,10 @@
 {
 	"parent":  "block/template_rail_corner",
 	"textures": {
-		"particle": "block/rail_corner_wood_top",
+		"particle": "block/rail_corner_wood",
 		"rail_metal_top": "block/rail_corner_metal_top",
 		"rail_metal_bottom": "block/rail_corner_metal_bottom",
-		"rail_wood_top": "block/rail_corner_wood_top",
+		"rail_wood_top": "block/rail_corner_wood",
 		"rail_wood_bottom": "block/rail_corner_wood_bottom"
 	}
 }
