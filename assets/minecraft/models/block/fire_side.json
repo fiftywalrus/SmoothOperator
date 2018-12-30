@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
      "textures": {
-        "particle": "block/fire_layer_0",
-        "fire": "block/fire_layer_0"
+        "particle": "block/fire_0",
+        "fire": "block/fire_0"
     },
    "elements": [
         {   "from": [ 0, 0, 0.1 ],
