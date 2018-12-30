@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "block/planks_oak",
-		"hook": "block/trip_wire_source",
-		"wood": "block/trip_wire_source",
-		"tripwire": "block/trip_wire"
+		"particle": "block/oak_planks",
+		"hook": "block/tripwire_hook",
+		"wood": "block/tripwire_hook",
+		"wire": "block/tripwire"
 	},
 	"elements": [
 		{
@@ -12,8 +12,8 @@
 			"to": [ 8.25, 1.501, 6.7 ],
 			"rotation": { "origin": [ 8, 0, 0 ], "axis": "x", "angle": -22.5, "rescale": true },
 			"faces": {
-				"down": { "uv": [ 0, 8, 16, 6 ], "texture": "#tripwire", "rotation": 90 },
-				"up": { "uv": [ 0, 6, 16, 8 ], "texture": "#tripwire", "rotation": 90 }
+				"down": { "uv": [ 0, 8, 16, 6 ], "texture": "#wire", "rotation": 90 },
+				"up": { "uv": [ 0, 6, 16, 8 ], "texture": "#wire", "rotation": 90 }
 			}
 		},
 		{
