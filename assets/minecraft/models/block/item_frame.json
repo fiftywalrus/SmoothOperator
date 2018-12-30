@@ -2,8 +2,8 @@
 	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "block/planks_birch",
-		"wood": "block/itemframe",
-		"back": "block/itemframe_background"
+		"wood": "block/item_frame",
+		"back": "block/item_frame_background"
 	},
 	"elements": [
 		{
