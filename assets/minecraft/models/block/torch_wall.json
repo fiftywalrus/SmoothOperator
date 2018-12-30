@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "torch": "block/torch",
-        "particle": "#torch"
+        "particle": "block/torch_off"
     },
     "elements": [
     {
