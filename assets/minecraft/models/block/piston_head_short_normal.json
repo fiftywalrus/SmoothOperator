@@ -1,9 +1,0 @@
-{
-    "parent": "block/piston_head_short",
-    "textures": {
-        "unsticky": "block/piston_top_back",
-        "post": "block/piston_side",
-        "side": "block/piston_side",
-        "platform": "block/piston_top_normal"
-    }
-}

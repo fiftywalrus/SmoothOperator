@@ -1,33 +1,9 @@
 {
+	"parent": "block/template_piston_head",
 	"textures": {
-		"particle": "#platform",
-		"post": "#post",
-		"side": "#side",
-		"platform": "#platform",
-		"unsticky": "#unsticky"
-	},
-	"elements": [
-		{
-			"from": [ 0, 0, 0 ],
-			"to": [ 16, 16, 4 ],
-			"faces": {
-				"down": { "uv": [ 0, 0, 16, 4 ], "texture": "#side", "cullface": "down", "rotation": 180 },
-				"up": { "uv": [ 0, 0, 16, 4 ], "texture": "#side", "cullface": "up" },
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#platform", "cullface": "north" },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#unsticky" },
-				"west": { "uv": [ 0, 0, 16, 4 ], "texture": "#side", "cullface": "west", "rotation": 270 },
-				"east": { "uv": [ 0, 0, 16, 4 ], "texture": "#side", "cullface": "east", "rotation": 90 }
-			}
-		},
-		{
-			"from": [ 6, 6, 4 ],
-			"to": [ 10, 10, 20 ],
-			"faces": {
-				"down": { "uv": [ 0, 0, 16, 4 ], "texture": "#post", "rotation": 90 },
-				"up": { "uv": [ 0, 0, 16, 4 ], "texture": "#post", "rotation": 270 },
-				"west": { "uv": [ 16, 4, 0, 0 ], "texture": "#post" },
-				"east": { "uv": [ 0, 0, 16, 4 ], "texture": "#post" }
-			}
-		}
-	]
+	        "unsticky": "block/piston_top_back",
+		"post": "block/piston_side",
+		"side": "block/piston_side",
+		"platform": "block/piston_top"
+	}
 }

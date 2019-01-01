@@ -1,5 +1,5 @@
 {
-    "parent": "block/piston_head",
+    "parent": "block/template_piston_head",
     "textures": {
         "unsticky": "block/piston_top_back",
         "post": "block/piston_side",
