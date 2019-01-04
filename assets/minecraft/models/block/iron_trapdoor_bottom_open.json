@@ -1,8 +1,0 @@
-{
-    "parent": "block/template_framed_trapdoor_bottom_open",
-    "textures": {
-        "particle": "block/iron_trapdoor_top",
-        "top": "block/iron_trapdoor_top",
-        "bottom": "block/iron_trapdoor_bottom"
-    }
-}

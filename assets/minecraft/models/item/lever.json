@@ -1,5 +1,5 @@
 {
-   "parent": "block/lever_off",
+   "parent": "block/lever",
    "display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 0, 0 ],
