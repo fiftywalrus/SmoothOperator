@@ -1,0 +1,62 @@
+{
+"ambientocclusion": false,
+"textures": {
+    "particle": "#texture",
+    "top": "#top",
+    "bottom": "#bottom"
+},
+"elements": [ 
+{
+    "from": [ 2, 1, 2 ],
+    "to": [ 14, 2, 14 ],
+    "faces": {
+        "down":  { "uv": [ 2, 2, 12, 12 ], "texture": "#top" },
+        "up":    { "uv": [ 14, 14, 2, 2 ], "texture": "#bottom" }
+    }
+},
+{
+    "from": [ 14, 0, 0 ],
+    "to": [ 16, 2, 16 ],
+    "faces": {
+        "down":  { "uv": [ 12, 0, 14, 14 ], "texture": "#top", "cullface": "down" },
+        "up":    { "uv": [ 2, 16, 0, 0 ], "texture": "#bottom" },
+        "north": { "uv": [ 12, 14, 14, 16 ], "rotation": 180, "texture": "#top", "cullface": "north" },
+        "south": { "uv": [ 0, 14, 2, 16 ], "rotation": 180, "texture": "#top", "cullface": "south" },
+        "west":  { "uv": [ 14, 0, 16, 14 ], "rotation": 270, "texture": "#top" },
+        "east":  { "uv": [ 14, 0, 16, 14 ], "rotation": 270, "texture": "#top", "cullface": "east" }
+    }
+},
+{
+    "from": [ 0, 0, 0 ],
+    "to": [ 2, 2, 16 ],
+    "faces": {
+        "down":  { "uv": [ 0, 0, 2, 14 ], "texture": "#top", "cullface": "down" },
+        "up":    { "uv": [ 14, 0, 16, 16 ], "rotation": 180, "texture": "#bottom" },
+        "north": { "uv": [ 0, 14, 2, 16 ], "rotation": 180, "texture": "#top", "cullface": "north" },
+        "south": { "uv": [ 12, 14, 14, 16 ], "rotation": 180, "texture": "#top", "cullface": "south" },
+        "west":  { "uv": [ 14, 0, 16, 14 ], "rotation": 270, "texture": "#top", "cullface": "west" },
+        "east":  { "uv": [ 14, 0, 16, 14 ], "rotation": 270, "texture": "#top" }
+    }
+},
+{
+    "from": [ 2, 0, 0 ],
+    "to": [ 14, 2, 2 ],
+    "faces": {
+        "down":  { "uv": [ 2, 12, 12, 14 ], "texture": "#top" },
+        "up":    { "uv": [ 14, 16, 2, 14 ], "texture": "#bottom" },
+        "north": { "uv": [ 2, 14, 12, 16 ], "rotation": 180, "texture": "#top", "cullface": "north" },
+        "south": { "uv": [ 2, 14, 12, 16 ], "rotation": 180, "texture": "#top" }
+    }
+},
+{
+    "from": [ 2, 0, 14 ],
+    "to": [ 14, 2, 16 ],
+    "faces": {
+        "down":  { "uv": [ 2, 0, 12, 2 ], "texture": "#top" },
+        "up":    { "uv": [ 14, 2, 2, 0 ], "texture": "#bottom" },
+        "north": { "uv": [ 2, 14, 12, 16 ], "rotation": 180, "texture": "#top" },
+        "south": { "uv": [ 2, 14, 12, 16 ], "rotation": 180, "texture": "#top", "cullface": "south" }
+    }
+}
+]
+}

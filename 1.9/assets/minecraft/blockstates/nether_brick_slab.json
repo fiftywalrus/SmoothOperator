@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "half=bottom": [
+          { "model": "nether_brick/half_slab_nether_brick00" },
+          { "model": "nether_brick/half_slab_nether_brick01" },
+          { "model": "nether_brick/half_slab_nether_brick02" },
+          { "model": "nether_brick/half_slab_nether_brick03" }
+        ],
+        "half=top": [
+          { "model": "nether_brick/upper_slab_nether_brick00" },
+          { "model": "nether_brick/upper_slab_nether_brick01" },
+          { "model": "nether_brick/upper_slab_nether_brick02" },
+          { "model": "nether_brick/upper_slab_nether_brick03" }
+        ]
+    }
+}
