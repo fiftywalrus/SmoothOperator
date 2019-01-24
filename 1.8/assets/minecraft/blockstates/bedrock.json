@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "bedrock_00" },
+            { "model": "bedrock_01" },
+            { "model": "bedrock_02" },
+            { "model": "bedrock_03" }
+        ]
+    }
+}
