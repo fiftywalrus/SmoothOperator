@@ -1,0 +1,2 @@
+texturepacks=..\texturepacks
+resourcepacks=..\resourcepacks
