@@ -1,0 +1,62 @@
+{
+	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/planks_birch",
+		"wood": "blocks/itemframe",
+		"back": "blocks/itemframe_background"
+	},
+	"elements": [
+		{
+			"from": [ 3, 3, 15.5 ],
+			"to": [ 13, 13, 16 ],
+			"faces": {
+				"north": { "uv": [ 1, 1, 15, 15 ], "texture": "#back" },
+				"south": { "uv": [ 1, 1, 15, 15 ], "texture": "#back" }
+			}
+		},
+		{
+			"from": [ 2, 2, 15 ],
+			"to": [ 14, 3, 16 ],
+			"faces": {
+				"down": { "uv": [ 2, 14, 14, 15 ], "texture": "#wood" },
+				"up": { "uv": [ 2, 0, 14, 1 ], "texture": "#wood" },
+				"north": { "uv": [ 2, 13, 14, 14 ], "texture": "#wood" },
+				"south": { "uv": [ 2, 13, 14, 14 ], "texture": "#wood" },
+				"west": { "uv": [ 14, 13, 15, 14 ], "texture": "#wood" },
+				"east": { "uv": [ 1, 13, 2, 14 ], "texture": "#wood" }
+			}
+		},
+		{
+			"from": [ 2, 13, 15 ],
+			"to": [ 14, 14, 16 ],
+			"faces": {
+				"down": { "uv": [ 2, 15, 14, 16 ], "texture": "#wood" },
+				"up": { "uv": [ 2, 1, 14, 2 ], "texture": "#wood" },
+				"north": { "uv": [ 2, 2, 14, 3 ], "texture": "#wood" },
+				"south": { "uv": [ 2, 2, 14, 3 ], "texture": "#wood" },
+				"west": { "uv": [ 14, 2, 15, 3 ], "texture": "#wood" },
+				"east": { "uv": [ 1, 2, 2, 3 ], "texture": "#wood" }
+			}
+		},
+		{
+			"from": [ 2, 3, 15 ],
+			"to": [ 3, 13, 16 ],
+			"faces": {
+				"north": { "uv": [ 13, 3, 14, 13 ], "texture": "#wood" },
+				"south": { "uv": [ 13, 3, 14, 13 ], "texture": "#wood" },
+				"west": { "uv": [ 14, 3, 15, 13 ], "texture": "#wood" },
+				"east": { "uv": [ 12, 3, 13, 13 ], "texture": "#wood" }
+			}
+		},
+		{
+			"from": [ 13, 3, 15 ],
+			"to": [ 14, 13, 16 ],
+			"faces": {
+				"north": { "uv": [ 2, 3, 3, 13 ], "texture": "#wood" },
+				"south": { "uv": [ 2, 3, 3, 13 ], "texture": "#wood" },
+				"west": { "uv": [ 3, 3, 4, 13 ], "texture": "#wood" },
+				"east": { "uv": [ 1, 3, 2, 13 ], "texture": "#wood" }
+			}
+		}
+	]
+}
