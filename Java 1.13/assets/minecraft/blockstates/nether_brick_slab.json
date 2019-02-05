@@ -13,10 +13,10 @@
 	  { "model": "block/nether_brick_slab_top_03" }
 	],
         "type=double": [
-	  { "model": "block/nether_bricks" },
-	  { "model": "block/nether_bricks_01" },
-	  { "model": "block/nether_bricks_02" },
-	  { "model": "block/nether_bricks_03" }
+	  { "model": "block/nether_brick" },
+	  { "model": "block/nether_brick01" },
+	  { "model": "block/nether_brick02" },
+	  { "model": "block/nether_brick03" }
 	]
     }
 }
