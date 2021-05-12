@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves_hanging_02",
+    "textures": {
+        "all": "block/leaves_jungle"
+    }
+}

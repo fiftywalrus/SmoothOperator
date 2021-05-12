@@ -1,0 +1,40 @@
+{
+	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#rail_wood_top",
+		"rail_metal_top": "#rail_metal_top",
+		"rail_metal_bottom": "#rail_metal_bottom",
+		"rail_wood_top": "#rail_wood_top",
+		"rail_wood_bottom": "#rail_wood_bottom"
+	},
+	"elements": [
+		{
+			"from": [ 0, 10, 0 ],
+			"to": [ 16, 10.001, 16 ],
+			"rotation": { "origin": [ 8, 10, 8 ], "axis": "x", "angle": -45, "rescale": true },
+			"faces": {
+				"down": { "uv": [ 0, 16, 16, 0 ], "texture": "#rail_metal_bottom" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#rail_metal_top" }
+			}
+		},
+		{
+			"from": [ 0, 9, 0 ],
+			"to": [ 16, 9.001, 16 ],
+			"rotation": { "origin": [ 8, 9, 8 ], "axis": "x", "angle": -45, "rescale": true },
+			"faces": {
+				"down": { "uv": [ 0, 16, 16, 0 ], "texture": "#rail_metal_bottom" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#rail_wood_top", "rotation": 180 }
+			}
+		},
+		{
+			"from": [ 0, 8.75, 0.25 ],
+			"to": [ 16, 8.751, 16.25 ],
+			"rotation": { "origin": [ 8, 8.75, 8.25 ], "axis": "x", "angle": -45, "rescale": true },
+			"faces": {
+				"down": { "uv": [ 0, 16, 16, 0 ], "texture": "#rail_wood_bottom" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#rail_wood_bottom" }
+			}
+		}
+	]
+}
