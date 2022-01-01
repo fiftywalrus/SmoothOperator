@@ -1,0 +1,7 @@
+{
+    "parent": "item/sapling",
+    "textures": {
+        "particle": "block/oak_sapling",
+        "cross": "block/oak_sapling"
+    }
+}
