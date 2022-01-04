@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "light_gray_wool" },
+          { "model": "light_gray_wool_01" },
+          { "model": "light_gray_wool_02" },
+          { "model": "light_gray_wool_03" }
+        ]
+    }
+}

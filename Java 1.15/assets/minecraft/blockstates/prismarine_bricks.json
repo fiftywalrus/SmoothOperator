@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "prismarine_bricks_00" },
+          { "model": "prismarine_bricks_01" },
+          { "model": "prismarine_bricks_02" },
+          { "model": "prismarine_bricks_03" }
+        ]
+    }
+}
