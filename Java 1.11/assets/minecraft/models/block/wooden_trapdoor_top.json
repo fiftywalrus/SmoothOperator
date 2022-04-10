@@ -1,8 +1,0 @@
-{
-    "parent": "block/trapdoor_top",
-    "textures": {
-        "particle": "blocks/wooden_trapdoor_top",
-        "top": "blocks/wooden_trapdoor_top",
-        "bottom": "blocks/wooden_trapdoor_bottom"
-    }
-}

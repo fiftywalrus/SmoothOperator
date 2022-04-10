@@ -1,0 +1,26 @@
+{
+	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#texture",
+		"top": "blocks/e_texture",
+		"bottom": "blocks/e_texture",
+		"side": "blocks/e_texture",
+		"end": "blocks/e_texture"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 13 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 13, 13, 16 ], "texture": "#end" },
+				"up": { "uv": [ 13, 16, 0, 13 ], "texture": "#end" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" },
+				"south": { "uv": [ 13, 13, 0, 0 ], "texture": "#top", "rotation": 180 },
+				"west": { "uv": [ 13, 13, 16, 0 ], "texture": "#side", "rotation": 180 },
+				"east": { "uv": [ 13, 0, 16, 13 ], "texture": "#side" }
+			}
+		}
+	]
+}

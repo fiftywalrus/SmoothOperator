@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves_rough_00",
+    "textures": {
+        "all": "block/leaves_birch"
+    }
+}

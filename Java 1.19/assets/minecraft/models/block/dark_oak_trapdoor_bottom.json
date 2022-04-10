@@ -1,0 +1,10 @@
+{
+    "parent": "block/template_thick_trapdoor_bottom",
+    "textures": {
+        "particle": "block/dark_oak_trapdoor_top",
+        "top": "block/dark_oak_trapdoor_top",
+        "side": "block/dark_oak_trapdoor_top",
+        "end": "block/dark_oak_trapdoor_top",
+        "bottom": "block/dark_oak_trapdoor_bottom"
+    }
+}

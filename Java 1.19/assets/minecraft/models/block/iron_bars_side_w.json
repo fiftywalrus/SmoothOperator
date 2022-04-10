@@ -1,0 +1,47 @@
+{
+	"__comment": "Designed by FiftyWalrus with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/iron_bars",
+		"bars": "block/iron_bars",
+		"edge": "block/iron_bars_end"
+	},
+	"elements": [
+		{
+			"from": [ 3, 0, 7 ],
+			"to": [ 4.5, 16, 8.5 ],
+			"rotation": { "origin": [ 3, 0, 7 ], "axis": "y", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#edge" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#edge" },
+				"north": { "uv": [ 7, 0, 5.5, 16 ], "texture": "#bars" },
+				"south": { "uv": [ 4, 0, 5.5, 16 ], "texture": "#bars" },
+				"west": { "uv": [ 5.5, 0, 4, 16 ], "texture": "#bars" },
+				"east": { "uv": [ 5.5, 0, 7, 16 ], "texture": "#bars" }
+			}
+		},
+		{
+			"from": [ 3, 12, 8 ],
+			"to": [ 8, 13.5, 9.5 ],
+			"rotation": { "origin": [ 3, 13.5, 8 ], "axis": "x", "angle": 45 },
+			"faces": {
+				"down": { "uv": [ 2, 0, 4, 5 ], "texture": "#bars", "rotation": 270 },
+				"up": { "uv": [ 0, 0, 2, 5 ], "texture": "#bars", "rotation": 90 },
+				"north": { "uv": [ 0, 0, 2, 5 ], "texture": "#bars", "rotation": 90 },
+				"south": { "uv": [ 2, 0, 4, 5 ], "texture": "#bars", "rotation": 90 }
+			}
+		},
+		{
+			"from": [ 0, 8, 8 ],
+			"to": [ 3, 9.5, 9.5 ],
+			"rotation": { "origin": [ 0, 9.5, 8 ], "axis": "x", "angle": 45 },
+			"faces": {
+				"down": { "uv": [ 2, 0, 4, 3 ], "texture": "#bars", "rotation": 270 },
+				"up": { "uv": [ 0, 0, 2, 3 ], "texture": "#bars", "rotation": 90 },
+				"north": { "uv": [ 0, 0, 2, 3 ], "texture": "#bars", "rotation": 90 },
+				"south": { "uv": [ 2, 0, 4, 3 ], "texture": "#bars", "rotation": 90 },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#edge" }
+			}
+		}
+	]
+}
