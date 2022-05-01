@@ -1,8 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "torch": "block/redstone_torch",
-        "particle": "block/redstone_torch_off"
+        "particle": "#torch"
     },
     "elements": [ 
         {
@@ -32,4 +31,3 @@
         }
     ]
 }
-
