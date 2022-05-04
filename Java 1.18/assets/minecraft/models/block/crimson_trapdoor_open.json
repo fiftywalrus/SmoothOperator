@@ -1,0 +1,8 @@
+{
+    "parent": "block/template_framed_trapdoor_open",
+    "textures": {
+        "particle": "block/crimson_trapdoor_top",
+        "top": "block/crimson_trapdoor_top",
+        "bottom": "block/crimson_trapdoor_bottom"
+    }
+}
